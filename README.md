@@ -22,7 +22,7 @@
 
 ## Quick Notice
 
-**BEFORE YOU START**: For the tests, we used primarily used the _localhost_ environment. If you wish to run these test again, you'll need to change the URL in each project and test arhive for the following URL: https://hebrewards.vercel.app/ **path**, where path determines the page where the tests will be running.
+**BEFORE YOU START**: For the tests, we used primarily used the _localhost_ environment. If you wish to run these tests again, you'll need to change the URL in each project and test arhive for the following URL: https://hebrewards.vercel.app/ **path**, where _path_ determines the page where the tests will be running.
 
 **Test Video:** Unfortunately, the video size is greater than 25MB so it can't be uploaded directly to the repository. Instead, we've included a **.txt** file with a Youtube link that contains the full length video of the tests that were made for this first Sprint.
 
@@ -34,10 +34,10 @@ In this repository, you'll find two folders. Here is a quick explanation of thei
 
 **Test_Zip:** Here you'll fine the _zipped_ projects in AquaQA that were used to do the tests. Our goal with this folder is for the user to download the .zip of their choice, unzip it and see it in the JetBrains IDE.
 
-Check out this google drive where you can find individual .zips and videos as well as some other resources by clicking 
+Also, check out this google drive where you can find individual .zips and videos as well as some other resources by clicking 
 [here](https://drive.google.com/drive/folders/1uCjU63fBc7oXDiVe5jzDY_tJ6iktsmqI?usp=share_link).
 
-### Tested With
+## Tested With
 The technologies that made possible the tests are shown below.
 
 > ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
