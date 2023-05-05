@@ -20,7 +20,19 @@
   </p>
 </div>
 
-Check out the Drive with individual .zips and videos as well as some other resources by clicking 
+## Quick Notice
+
+**BEFORE YOU START**: For the tests, we used primarily used the _localhost_ environment. If you wish to run these test again, you'll need to change the URL in each project and test arhive for the following URL: https://hebrewards.vercel.app/ **path**, where path determines the page where the tests will be running.
+
+## Important Information
+
+In this repository, you'll find two folders. Here is a quick explanation of their contents:
+
+**Test_Individual:** Here you'll find the _raw_ code used to do the tests in AquaQA. We included them for easy access and code lookup.
+
+**Test_Zip:** Here you'll fine the _zipped_ projects in AquaQA that were used to do the tests. Our goal with this folder is for the user to download the .zip of their choice, unzip it and see it in the JetBrains IDE.
+
+Check out this google drive where you can find individual .zips and videos as well as some other resources by clicking 
 [here](https://drive.google.com/drive/folders/1uCjU63fBc7oXDiVe5jzDY_tJ6iktsmqI?usp=share_link).
 
 ### Tested With
