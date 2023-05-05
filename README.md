@@ -22,7 +22,7 @@
 
 ## Quick Notice
 
-**BEFORE YOU START**: For the tests, we used primarily used the _localhost_ environment. If you wish to run these tests again, you'll need to change the URL in each project and test arhive for the following URL: https://hebrewards.vercel.app/ **path**, where _path_ determines the page where the tests will be running.
+**BEFORE YOU START**: For the tests, we primarily used the _localhost_ environment. If you wish to run these tests again, you'll need to change the URL in each project and test arhive for the following URL: https://hebrewards.vercel.app/ **path**, where _path_ determines the page where the tests will be running.
 
 **Test Video:** Unfortunately, the video size is greater than 25MB so it can't be uploaded directly to the repository. Instead, we've included a **.txt** file with a Youtube link that contains the full length video of the tests that were made for this first Sprint. 
 
