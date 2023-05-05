@@ -20,6 +20,9 @@
   </p>
 </div>
 
+Check out the Drive with individual .zips and videos as well as some other resources by clicking 
+[here](https://drive.google.com/drive/folders/1uCjU63fBc7oXDiVe5jzDY_tJ6iktsmqI?usp=share_link).
+
 ### Tested With
 The technologies that made possible the tests are shown below.
 
