@@ -32,7 +32,7 @@
 
 ## Important Information
 
-In this repository, you'll find two folders. Here is a quick explanation of their contents:
+In this repository, you'll find folders for each sprint. Here is a quick explanation of their contents:
 
 **Test_Individual:** Here you'll find the _raw_ code used to do the tests in AquaQA. We included them for easy access and code lookup.
 
