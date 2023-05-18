@@ -26,8 +26,8 @@
 
 **Test Video:** Unfortunately, the video size is greater than 25MB so it can't be uploaded directly to the repository. Instead, we've included a **.txt** file with a Youtube link that contains the full length video of the tests that were made for this first Sprint. 
 
-- [Click here >>](https://youtu.be/rHSpiDqjnJY) if you wish to be redirected to the **AquaQA Tests Video**.
-- [Click here >>](https://youtu.be/fZ1DdwDCXU8) if you wish to be redirected to the **JMeter Capacity Test Video**.
+- [Click here >>](https://youtu.be/rHSpiDqjnJY) if you wish to be redirected to the **Sprint #1 AquaQA Tests Video**.
+- [Click here >>](https://youtu.be/fZ1DdwDCXU8) if you wish to be redirected to the **Sprint #1 JMeter Capacity Test Video**.
 
 
 ## Important Information
