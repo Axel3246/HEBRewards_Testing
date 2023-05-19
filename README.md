@@ -31,7 +31,7 @@
 
 ## SPRINT 2 - About the Videos...
 
-The videos will be found at the designated Google Drive Folder for the Team.
+The videos will be found at the designated [Google Drive Folder for the Team](https://drive.google.com/drive/folders/1Crv4p-dVPBbJC583l9hKG3NclnC6KOGG?usp=share_link).
 
 ## Important Information
 
