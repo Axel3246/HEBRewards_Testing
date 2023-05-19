@@ -29,6 +29,9 @@
 - [Click here >>](https://youtu.be/rHSpiDqjnJY) if you wish to be redirected to the **Sprint #1 AquaQA Tests Video**.
 - [Click here >>](https://youtu.be/fZ1DdwDCXU8) if you wish to be redirected to the **Sprint #1 JMeter Capacity Test Video**.
 
+## SPRINT 2 - About the Videos...
+
+The videos will be found at the designated Google Drive Folder for the Team.
 
 ## Important Information
 
